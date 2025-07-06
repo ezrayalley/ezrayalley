@@ -36,7 +36,7 @@ Welcome to my GitHub page
 
 ## 🌟 Featured Projects
 
-- **[SignLink: Real Time Bidirectional Sign Language Translator](#)**
+- **[https://github.com/ezrayalley/SignLink-A-Multimodal-Bidirectional-Sign-Language-Translator](#)**
   - Breaking communication barriers with real-time sign language translation.
 - **[Celestial Mechanics Simulation App](#)**
   - Simulating space phenomena for learning and discovery.
