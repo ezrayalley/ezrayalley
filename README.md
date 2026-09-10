@@ -21,7 +21,7 @@ Welcome to my GitHub page
 
 - 💡 Build **machine learning** and **AI solutions** for societal impact  
 - 🌍 Develop **educational simulations** and **interactive AR experiences**  
-- 🧪 Conduct **research** in healthcare AI, disaster management systems, and immersive learning  
+- 🧪 Conduct **research** in AI in Education and immersive learning  
 - 📚 Teach, learn, and mentor in tech and education
 
 ---
