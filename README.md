@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ezrayalley&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-🎓 **Aspiring Data Scientist & Researcher** | 👨‍🏫 **Professional Educator** | 🔍 **AI & ML Enthusiast**
+🎓 **Researcher-AI in Education** | 👨‍🏫 **Professional Educator** | 🔍 **AI & ML Enthusiast**
 
 Welcome to my GitHub page
 
