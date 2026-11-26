@@ -36,25 +36,26 @@ Welcome to my GitHub page
 
 ## 🌟 Featured Projects
 
-- **EduLead AI**
-- **https://github.com/ezrayalley/EduLead-AI**
-  - AI Platform to support teachers and School Managers
+- **EduLead AI**: AI Platform to support teachers and School Managers
+  **https://github.com/ezrayalley/EduLead-AI**
 
--  **Educational Simulation App**
--  [**https://github.com/ezrayalley/Educational-Simulation-App**]
-  - Bringing Abstract educational concepts to life.
+- **Educational Simulation App**: Bringing Abstract educational concepts to life.
+   **https://github.com/ezrayalley/Educational-Simulation-App**
     
-- **[Physics Virtual Lab](#)**
-- **https://github.com/ezrayalley/Physics-Virtual-Lab**
-  - Making Physics lessons practical, interactive, and engaging
+- **Physics Virtual Lab**: Making Physics lessons practical, interactive, and engaging
+  **https://github.com/ezrayalley/Physics-Virtual-Lab**
 
-- **[SciViz](#)**
-- **https://github.com/ezrayalley/Sci-Viz--AI-Powered-Science-Visualization-Tool**
-  - AI-Powered Science Visualization tool.
-- **[Genetic Disorder Prediction](#)**
-  - Harnessing data to predict and understand genetic disorders.
-- **[FloodSense: RealTime Flood Risk Prediction](#)**
-  - Harnessing data to predict Flood incidents.
+- **SciViz**: AI-Powered Science Visualization tool.
+  **https://github.com/ezrayalley/Sci-Viz--AI-Powered-Science-Visualization-Tool**
+  
+- **SignLink**: A Multimodal Bidirectional Sign Language Translator.
+  **https://github.com/ezrayalley/SignLink-A-Multimodal-Bidirectional-Sign-Langauge-Translator**
+
+- **Genetic Disorder Prediction Using Machine Learning**: Enhancing early detection through Advanced ML techniques.
+  **https://github.com/ezrayalley/Genetic-Disorder-Prediction-Using-Machine-Learning**
+  
+- **FloodSense: RealTime Flood Risk Prediction**: Harnessing data to predict Flood incidents.
+  **https://github.com/ezrayalley/FloodSense-Data-Driven-Prediction-for-Safer-Communities**
 
 ## 📫 Let's Connect!
 
