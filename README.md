@@ -36,7 +36,7 @@ Welcome to my GitHub page
 
 ## 🌟 Featured Projects
 
-- **https://github.com/ezrayalley/Educational-Simulation-App(#)**
+- **https://github.com/ezrayalley/Educational-Simulation-App**
   - Breaking communication barriers with real-time sign language translation.
 - **[Celestial Mechanics Simulation App](#)**
   - Simulating space phenomena for learning and discovery.
