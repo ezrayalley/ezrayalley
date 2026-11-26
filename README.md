@@ -36,12 +36,21 @@ Welcome to my GitHub page
 
 ## 🌟 Featured Projects
 
-- **https://github.com/ezrayalley/Educational-Simulation-App**
-  - Breaking communication barriers with real-time sign language translation.
-- **[Celestial Mechanics Simulation App](#)**
-  - Simulating space phenomena for learning and discovery.
-- **[Stroke Risk Detector](#)**
-  - Predicting stroke risk with cutting-edge machine learning.
+- **EduLead AI**
+- **https://github.com/ezrayalley/EduLead-AI**
+  - AI Platform to support teachers and School Managers
+
+-  **Educational Simulation App**
+-  [**https://github.com/ezrayalley/Educational-Simulation-App**]
+  - Bringing Abstract educational concepts to life.
+    
+- **[Physics Virtual Lab](#)**
+- **https://github.com/ezrayalley/Physics-Virtual-Lab**
+  - Making Physics lessons practical, interactive, and engaging
+
+- **[SciViz](#)**
+- **https://github.com/ezrayalley/Sci-Viz--AI-Powered-Science-Visualization-Tool**
+  - AI-Powered Science Visualization tool.
 - **[Genetic Disorder Prediction](#)**
   - Harnessing data to predict and understand genetic disorders.
 - **[FloodSense: RealTime Flood Risk Prediction](#)**
